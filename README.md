@@ -1,16 +1,78 @@
-## Hi there 👋
+<!-- Banner Image or Animated GIF -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Deepayon!;Passionate+Developer;Open+Source+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=45&color=58a6ff&vCenter=true&size=24" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://github.com/Deepayon/Deepayon/blob/main/assets/banner.gif" alt="Banner" width="80%" />
+</p>
 
-<!--
-**Deepayon/Deepayon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Deepayon&label=Profile%20views&color=0e75b6&style=flat" alt="Deepayon" />
+  <img src="https://img.shields.io/github/followers/Deepayon?label=Follow&style=social" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/twitter/follow/your_twitter_handle?style=social" alt="Twitter Follow"/>
+  <img src="https://img.shields.io/badge/Code%20with-%20❤️-red" />
+</p>
 
-Here are some ideas to get you started:
+<!-- Social Media Links -->
+<p align="center">
+  <a href="https://twitter.com/your_twitter_handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your_linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://deepayon.github.io"><img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<details>
+  <summary><b>👨‍💻 About Me</b></summary>
+  <br>
+  <ul>
+    <li>🔭 I’m currently working on <b>exciting open source projects</b></li>
+    <li>🌱 I’m currently learning <b>AI, ML, and Cloud Technologies</b></li>
+    <li>👯 I’m looking to collaborate on <b>innovative software</b></li>
+    <li>💬 Ask me about <b>Python, JavaScript, or DevOps</b></li>
+    <li>⚡ Fun fact: <b>I love solving puzzles!</b></li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>🛠️ My Tech Stack</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,react,java,nodejs,docker,aws,kubernetes,linux,git,github,vscode" />
+  </p>
+</details>
+
+<details>
+  <summary><b>📊 GitHub Stats & Trophies</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Deepayon&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+    <img src="https://streak-stats.demolab.com?user=Deepayon&theme=github-dark&hide_border=true" alt="GitHub Streak" /><br>
+    <img src="https://github-profile-trophy.vercel.app/?username=Deepayon&theme=algolia&row=1" alt="Trophies" />
+  </p>
+</details>
+
+<details>
+  <summary><b>🌟 Featured Projects</b></summary>
+  <br>
+  <p>
+    <a href="https://github.com/Deepayon/your-project"><b>🚀 Project Name</b></a>: Short description of the project.<br>
+    <a href="https://github.com/Deepayon/another-project"><b>🔧 Another Project</b></a>: Short description.
+  </p>
+</details>
+
+---
+
+<p align="center">
+  <b>Let's Connect!</b> <br>
+  <a href="mailto:your.email@example.com">✉️ Email</a> | 
+  <a href="https://linkedin.com/in/your_linkedin">LinkedIn</a> | 
+  <a href="https://deepayon.github.io">Portfolio</a>
+</p>
+
+<!-- Modern Footer GIF or Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Deepayon/Deepayon/main/assets/footer-animation.gif" width="30%"/>
+</p>
