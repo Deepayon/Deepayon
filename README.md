@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50%" alt="coding animation"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="32%" alt="coding animation"/>
 </p>
 
 <p align="center">
@@ -20,23 +20,6 @@
 
 Motivated technical fresher with a solid foundation in programming, problem-solving, and modern web technologies.  
 Enthusiastic about making a meaningful impact in dynamic settings and always eager to learn something new.
-
----
-
-### 💼 Experience
-
-- **Summer Intern @ Celebal Technologies**  
-  _June 2024 – August 2024_  
-  - Collaborated on SQL database development, wrote efficient queries.
-  - Participated in real-world data management & analysis projects.
-
----
-
-### 📜 Certifications & Volunteer Work
-
-- **AI for Everyone** – Coursera (DeepLearning.AI), 2024
-- **SQL for Data Science** – Coursera (University of California, Davis), 2023
-- **Introduction to Hardware and Operating Systems** – Coursera (IBM), 2024
 
 ---
 
@@ -81,38 +64,11 @@ Enthusiastic about making a meaningful impact in dynamic settings and always eag
 
 ---
 
-### 🌱 Extra Activities & Memberships
-
-- 🏆 **JIS Samman Band winner**
-- 🏅 **Top 10** at AEC Hardware Model Making Competition
-- 👨‍💻 Member of **AEC Coding Club**
-
----
-
 ### 🌍 Languages
 
 - ![English](https://img.shields.io/badge/English-Professional--working--proficiency-blue)
 - ![Bengali](https://img.shields.io/badge/Bengali-Native--bilingual-brightgreen)
 - ![Hindi](https://img.shields.io/badge/Hindi-Native--bilingual-yellow)
-
----
-
-### 🎸 Hobbies
-
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/soccer-ball.png" title="Football"/>
-  <img src="https://img.icons8.com/color/48/000000/video-editing.png" title="Videography"/>
-  <img src="https://img.icons8.com/color/48/000000/guitar.png" title="Guitar"/>
-</p>
-
----
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepayon&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Deepayon&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Deepayon&theme=algolia&row=1" alt="Trophies" />
-</p>
 
 ---
 
